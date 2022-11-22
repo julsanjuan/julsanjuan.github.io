@@ -14,4 +14,4 @@ My favourite things.
 |--------|---------|-----------|----------|--------|
 | McDonalds  | Foie Gras    | Pares| Pancit| Ice Cream | 
 
-[We Don't Talk About Bruno-Encanto](https://www.youtube.com/watch?v=bvWRMAU6V-c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvWRMAU6V-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
